@@ -1,0 +1,22 @@
+{
+  "name": "shovellingsnow",
+  "version": "1.0.0",
+  "description": "This program is to take width, height and map data and shows the minimal number of squares that need to be cleared from snow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amehybrid/my10xhardanswer.git"
+  },
+  "author": "Aaron Galvez Dizon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amehybrid/my10xhardanswer/issues"
+  },
+  "homepage": "https://github.com/amehybrid/my10xhardanswer#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
