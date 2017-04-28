@@ -16,7 +16,5 @@
     "url": "https://github.com/amehybrid/my10xhardanswer/issues"
   },
   "homepage": "https://github.com/amehybrid/my10xhardanswer#readme",
-  "dependencies": {
-    "readline-sync": "^1.4.7"
-  }
+  "dependencies": {}
 }
